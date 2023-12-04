@@ -56,7 +56,7 @@ namespace L5A
         private void ToggleButton_Click(object sender, EventArgs e)
         {
             SwitchedOn = !SwitchedOn;
-        }
+        }//пшшшшшшшшшшшшш
         private void InitializeTimer()
         {
             timer = new Timer();
